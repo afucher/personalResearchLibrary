@@ -1,5 +1,9 @@
-#[Kanban](./kanban.md)
+#Agile  
+- [Agile Dictionary](http://agiledictionary.com/)  
+ 
 
-- [Agile Dictionary](http://agiledictionary.com/)
+##[Kanban](./kanban.md)
+##[Metrics](./metrics.md)
+##[toolboxMeetings](./toolboxMettings.md)
 
 
