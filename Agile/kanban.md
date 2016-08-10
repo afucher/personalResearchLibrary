@@ -1,3 +1,4 @@
+[<-](../)
 #Bibliografia
  - [https://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402](https://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402)
 
